@@ -13,7 +13,6 @@ This project parses resume files and compares them against a job description usi
 ## Project Structure
 
 ```text
-week-1/day5/
 ├── resume_parser.py
 ├── main.py
 ├── pyproject.toml
